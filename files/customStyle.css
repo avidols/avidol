@@ -1,0 +1,9 @@
+.b_searchboxSubmit {
+    border: none;
+    background: url(./bing1.png);
+    background-repeat: no-repeat;
+    background-size: 20px 20px;
+    width: 39px;
+    height: 35px;
+    background-position: 9px center;
+}
